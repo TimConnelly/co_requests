@@ -1,5 +1,7 @@
 # Co_requests
 
+NOTE: This project is currently an exploration phase. Do not use it for anything. Interfaces will change. 
+
 This project serves two goals:
 1. Provide a high level async requests library with an interface similar to the Python requests module.
 2. Learn coroutines (and anything other features from C++20 while I'm at it.)
